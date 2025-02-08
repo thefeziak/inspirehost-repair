@@ -2,7 +2,7 @@
 
 nano repair.sh
 
-Copy it and paste
+Creating file: (Copy it and paste)
 
 ```bash
 #!/bin/bash
@@ -14,7 +14,11 @@ echo -e "nameserver 2606:4700:4700::1111\nnameserver 2001:4860:4860::8888\nnames
 wget https://gitlab.com/fscarmen/warp/-/raw/main/menu.sh && bash menu.sh
 ```
 
+Saving file:
 Ctrl + xy
+Enter
+
+Starting file:
 
 bash repair.sh
 
